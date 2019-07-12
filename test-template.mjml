@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-title>Summertime Savings Event | Shop now</mj-title>
+    <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" />
+  </mj-head>
+  <mj-body background-color="#FFFFFF" color="#55575d" font-family="Source Sans Pro, Arial">
+    <mj-section>
+        <mj-image
+             src="https://embed.widencdn.net/img/livingspaces/d479wupdbt/exact/18-06-12-ColorGreyv3_01.png?keep=c&crop=yes&u=lzxxr2"
+             alt=""
+             width="" />
+        <mj-image
+             src="https://embed.widencdn.net/original/livingspaces/bgapr6lswe/19-07-11_SummerSavings_01.gif?u=bcizxq"
+             alt=""
+             width="" />
+    </mj-section>
+    <mj-text align='center' font-size='1.2rem'>These designs are perfectly priced for the season!</mj-text>
+    <mj-section>
+        <mj-column>
+            <mj-image
+                 src="http://embed.widencdn.net/img/livingspaces/idi6p4h9nq/exact/19-07-11_SummerSavings_queenbeds.jpeg?keep=c&crop=yes&u=we7psz"
+                 alt=""
+                 width="1200px" />
+        </mj-column>
+        <mj-column>
+            <mj-image
+                 src="http://embed.widencdn.net/img/livingspaces/sx2lkj38tr/exact/19-07-11_SummerSavings_diningsets.jpeg?keep=c&crop=yes&u=we7psz"
+                 alt=""
+                 width="1200px" />
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+            <mj-image
+                 src="http://embed.widencdn.net/img/livingspaces/arrqwmczmh/exact/19-07-11_SummerSavings_tvstands.jpeg?keep=c&crop=yes&u=we7psz"
+                 alt=""
+                 width="1200px" />
+        </mj-column>
+        <mj-column>
+            <mj-image
+                 src="http://embed.widencdn.net/img/livingspaces/nwef803rfv/exact/19-07-11_SummerSavings_coffeetables.jpeg?keep=c&crop=yes&u=we7psz"
+                 alt=""
+                 width="1200px" />
+        </mj-column>
+        <mj-column>
+            <mj-image
+                 src="http://embed.widencdn.net/img/livingspaces/uqrk8xmczl/exact/19-07-11_SummerSavings_recliners.jpeg?keep=c&crop=yes&u=we7psz"
+                 alt=""
+                 width="1200px" />
+        </mj-column>
+    </mj-section>
+    <mj-section>
+    
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+  </mj-body>
+</mjml>
