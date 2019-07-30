@@ -1,0 +1,15 @@
+<mj-section padding-bottom=0>
+  <mj-column width=100%>
+    <mj-divider>
+  </mj-column>
+</mj-section>
+<mj-section padding-bottom=0 padding-top=0>
+  <mj-column width=50%>
+    <mj-image src="https://www.livingspaces.com/globalassets/logo.png" alt="" width="" />
+  </mj-column>
+</mj-section>
+<mj-section padding-top=0>
+  <mj-column width=100%>
+    <mj-divider>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,14 @@
+<mj-section padding-bottom="0">
+  <mj-column>
+    <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="left" padding-bottom="0" font-weight="normal">
+      <h1>
+        ${text}
+      </h1>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section full-width='full-width' padding-top="0px">
+  <mj-column>
+    <mj-divider border-width='1px' border-color='#d8d8d8' padding-top="0" width="100%" padding-top="0px">
+  </mj-column>
+</mj-section>

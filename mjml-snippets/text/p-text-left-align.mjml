@@ -1,0 +1,9 @@
+<mj-section>
+  <mj-column>
+    <mj-text font-family="Arial" font-size="18px" color="#5d5d5d">
+      <p>
+        ${text}
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>

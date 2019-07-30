@@ -1,0 +1,7 @@
+<mj-section>
+  <mj-column>
+    <mj-button font-family="Arial" font-size='18px' font-weight='bold' background-color="#fff" color="#5d5d5d" text-decoration="underline" href=${href}>
+      ${buttonText} &rsaquo;
+    </mj-button>
+  </mj-column>
+</mj-section>

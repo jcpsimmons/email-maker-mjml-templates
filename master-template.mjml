@@ -1,0 +1,121 @@
+<mjml>
+  <mj-body background-color="#fff">
+    <!--Outer Contents separate-->
+    <mj-section padding-bottom=0>
+      <mj-column width=100%>
+        <mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom=0 padding-top=0>
+      <mj-column width=50%>
+        <mj-image src="https://www.livingspaces.com/globalassets/logo.png" alt="" width="" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top=0>
+      <mj-column width=100%>
+        <mj-divider>
+      </mj-column>
+    </mj-section>
+    <!---->
+    <mj-section>
+      <mj-column>
+        <mj-button font-family="Arial" font-size='18px' font-weight='bold' background-color="#d8d8d8" color="#5d5d5d" href="#">
+          Don't click me!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-button border="1px solid #d8d8d8" font-family="Arial" font-size='18px' font-weight='bold' background-color="#fff" color="#5d5d5d" href="#">
+          Don't click me!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-button font-family="Arial" font-size='18px' font-weight='bold' background-color="#fff" color="#5d5d5d" text-decoration="underline" href="#">
+          Don't click me! &rsaquo;
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial" font-size="18px" color="#5d5d5d">
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="center">
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="center" padding-bottom="0">
+          <h1>
+            Lorem Ipsum
+          </h1>
+        </mj-text>
+        <mj-divider border-width='1px' border-color='#d8d8d8' padding-top="0" width="40%">
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="left" padding-bottom="0" font-weight="normal">
+          <h1>
+            Lorem Ipsum
+          </h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width='full-width' padding-top="0px">
+      <mj-column>
+        <mj-divider border-width='1px' border-color='#d8d8d8' padding-top="0" width="100%" padding-top="0px">
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column vertical-align="middle">
+        <mj-divider border-width='1px' border-color='#d8d8d8' padding-top="0" width="100%" padding-right="0">
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="center" font-weight="normal" padding-top="0px" padding-left="0" padding-right="0">
+          <h3>
+            Lorem Ipsum
+          </h3>
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-divider border-width='1px' border-color='#d8d8d8' padding-top="0" width="100%" padding-left="0">
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://www.livingspaces.com/globalassets/productassets/200000-299999/230000-239999/233000-233999/233000-233099/233033/233033_grey_fabric_power_recliner_1.jpg?w=650&h=440&mode=pad" href="#" alt="" width="" />
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.giphy.com/media/3rXv6MUPvkX2jLgeUL/giphy.gif" alt="" width="" href="#" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://media.giphy.com/media/XtdKEIig98R4f8Muq8/giphy.gif" alt="" width="" href="#" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

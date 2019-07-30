@@ -1,0 +1,8 @@
+<mj-section>
+  <mj-column>
+    <mj-image src=${src1} alt=${alt1} width="" href=${href1} />
+  </mj-column>
+  <mj-column>
+    <mj-image src=${src2} alt=${alt2} width="" href=${href2} />
+  </mj-column>
+</mj-section>
