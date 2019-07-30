@@ -1,4 +1,7 @@
 <mjml>
+  <mj-head>
+    <mj-title>Title Here</mj-title>
+  </mj-head>
   <mj-body background-color="#fff">
     <!--Outer Contents separate-->
     <mj-section padding-bottom=0>

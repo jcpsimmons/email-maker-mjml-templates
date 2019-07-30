@@ -1,4 +1,7 @@
 <mjml>
+  <mj-head>
+    <mj-title>${title}</mj-title>
+  </mj-head>
   <mj-body background-color="#fff">
     ${bodyContents}
   </mj-body>
