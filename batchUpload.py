@@ -20,6 +20,11 @@ def getVariableNames(fileString):
     return(attrs)
 
 
+def getSnippetName(fileString):
+    snippetName = re.findall(r"<!--([\s\S]+?)-->", fileString)[0].strip()
+    return(snippetName)
+
+
 def getFileContents(filename):
     with open(filename) as f:
         return f.read()
@@ -37,6 +42,7 @@ def navFormatUpload(folderName):
     for i in mjmlFiles:
         tmp = getFileContents(i)
         attrs = getVariableNames(tmp)
+        humanReadable = getSnippetName(tmp)
         tmp = formatMjmlSnippet(tmp)
         stripExtension = i[:-5]
         # upload entry to fstore
@@ -45,6 +51,7 @@ def navFormatUpload(folderName):
             u'name': stripExtension,
             u'attrs': attrs,
             u'mjml': tmp,
+            u'humanReadable': humanReadable,
             u'uploadTimestamp': firestore.SERVER_TIMESTAMP
         })
     # get back to the root directory before running again
