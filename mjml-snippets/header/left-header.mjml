@@ -1,8 +1,9 @@
+<!-- Left Header -->
 <mj-section padding-bottom="0">
   <mj-column>
     <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="left" padding-bottom="0" font-weight="normal">
       <h1>
-        ${text}
+        ${text1}
       </h1>
     </mj-text>
   </mj-column>

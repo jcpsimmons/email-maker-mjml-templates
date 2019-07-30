@@ -1,5 +1,6 @@
+<!-- Image (Single Column) -->
 <mj-section>
   <mj-column>
     <mj-image src=${src1} alt=${alt1} href=${href1} width="" />
   </mj-column>
-</mj-section>s
+</mj-section>

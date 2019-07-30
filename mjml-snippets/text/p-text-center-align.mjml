@@ -1,8 +1,9 @@
+<!-- Body Text (Centered) -->
 <mj-section>
   <mj-column>
     <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="center">
       <p>
-        ${text}
+        ${text1}
       </p>
     </mj-text>
   </mj-column>

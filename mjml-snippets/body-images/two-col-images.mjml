@@ -1,3 +1,4 @@
+<!-- Image (Double Column) -->
 <mj-section>
   <mj-column>
     <mj-image src=${src1} alt=${alt1} width="" href=${href1} />
