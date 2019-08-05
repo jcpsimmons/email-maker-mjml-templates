@@ -1,0 +1,3 @@
+<mj-column width="50%">
+  <mj-image href="https://api.jetlore.com/layouts/section${sectionNumber}/item${itemNumber}?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=Queen_Beds_Price_Under_Jul19&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" src="https://api.jetlore.com/layouts/section${sectionNumber}/item${itemNumber}.png?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=Queen_Beds_Price_Under_Jul19&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" />
+</mj-column>

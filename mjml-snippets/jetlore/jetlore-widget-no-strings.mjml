@@ -1,0 +1,3 @@
+<mj-column width="50%">
+  <mj-image href=${href1} src=${src1} />
+</mj-column>
