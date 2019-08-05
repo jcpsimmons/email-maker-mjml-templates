@@ -17,7 +17,11 @@ subdirectories = os.listdir('.')
 
 def getVariableNames(fileString):
     attrs = re.findall(r"\{(.*?)\}", fileString)
-    return(attrs)
+    newlist = []
+    for i in attrs:
+        if i not in newlist:
+            newlist.append(i)
+    return(newlist)
 
 
 def getSnippetName(fileString):
