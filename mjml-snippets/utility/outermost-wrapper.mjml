@@ -1,5 +1,6 @@
 <mjml>
   <mj-head>
+    <mj-preview>${previewText}</mj-preview>
     <mj-title>${title}</mj-title>
   </mj-head>
   <mj-body background-color="#fff">
