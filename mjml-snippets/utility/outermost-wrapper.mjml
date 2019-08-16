@@ -13,7 +13,7 @@
     ${bodyContents}
   </mj-body>
   <mj-raw>
-    <!-- FOOTER START -->%%_SP_CONTENT_SCRAPE xt_csname="email footer" xt_cstracklinks="true" xt_cslocationtype="HTTPS" xt_cslocationref="www.livingspaces.com/_content/scripts/silverpop/email-footer-inc.html"%%
+    <!-- FOOTER START -->%%_SP_CONTENT_SCRAPE xt_csname="email footer" xt_cstracklinks="true" xt_cslocationtype="HTTPS" xt_cslocationref="https://www.livingspaces.com/_content/scripts/silverpop/email-maker-footer.html"%%
   </mj-raw>
   <mj-section>
     <mj-column>
