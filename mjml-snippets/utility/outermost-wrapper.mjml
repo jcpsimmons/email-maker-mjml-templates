@@ -2,11 +2,22 @@
   <mj-head>
     <mj-preview>${previewText}</mj-preview>
     <mj-title>${title}</mj-title>
+    <mj-attributes>
+      <mj-image alt="" padding="0px"></mj-image>
+      <mj-section padding="0px"></mj-section>
+      <mj-class name="body-text" font-family="Source Sans Pro, Arial, sans-serif" color="#333333" font-size="16px" line-height="26px"></mj-class>
+    </mj-attributes>
+    <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro"></mj-font>
   </mj-head>
-  <mj-body background-color="#fff">
+  <mj-body mj-class="body-text" background-color="#ffffff">
     ${bodyContents}
   </mj-body>
   <mj-raw>
     <!-- FOOTER START -->%%_SP_CONTENT_SCRAPE xt_csname="email footer" xt_cstracklinks="true" xt_cslocationtype="HTTPS" xt_cslocationref="www.livingspaces.com/_content/scripts/silverpop/email-footer-inc.html"%%
   </mj-raw>
+  <mj-section>
+    <mj-column>
+      <mj-text align="center" font-size="13px"><a href="#SPCLICKTOVIEW" id="ClickToViewHtml_SPCLICKTOVIEW" name="ClickToViewHtml_SPCLICKTOVIEW" style="color:#333333;text-decoration:underline;" xt="SPCLICKTOVIEW"><span style="color:#333333">View in Browser</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#SPCUSTOMOPTOUT" id="_SPCUSTOMOPTOUT" name="_SPCUSTOMOPTOUT" style="text-decoration:undelrine; color:#333333;" target="_blank" xt="SPCUSTOMOPTOUT"><span style="color:#333333;">Unsubscribe</span></a></mj-text>
+    </mj-column>
+  </mj-section>
 </mjml>
