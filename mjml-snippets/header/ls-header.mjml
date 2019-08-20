@@ -2,6 +2,7 @@
 <mj-section padding-bottom=0>
   <mj-column width=100%>
     <mj-divider>
+    </mj-divider>
   </mj-column>
 </mj-section>
 <mj-section padding-bottom=0 padding-top=0>
@@ -12,5 +13,6 @@
 <mj-section padding-top=0>
   <mj-column width=100%>
     <mj-divider>
+    </mj-divider>
   </mj-column>
 </mj-section>
