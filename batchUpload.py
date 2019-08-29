@@ -3,6 +3,7 @@ import os
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
+from multiprocessing.pool import Pool
 
 # fstore
 cred = credentials.Certificate('credentials/key.json')
@@ -67,6 +68,13 @@ def uploadToFirestore():
     return(True)
 
 
-for directory in subdirectories:
+def multiLoad(directory):
     print("Uploading directory: " + directory)
     navFormatUpload(directory)
+    print("{} directory upload complete.".format(directory))
+
+
+p = Pool(len(subdirectories))
+p.map(multiLoad, subdirectories)
+p.close()
+p.join()
