@@ -1,5 +1,5 @@
 <!-- Image (Single Column) -->
-<mj-section>
+<mj-section background-color=${bgColor1}>
   <mj-column>
     <mj-image src=${src1} alt=${alt1} href=${href1} width="" />
   </mj-column>

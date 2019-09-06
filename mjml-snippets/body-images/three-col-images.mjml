@@ -1,0 +1,12 @@
+<!-- Image (Triple Column) -->
+<mj-section background-color=${bgColor1}>
+  <mj-column width="33%">
+    <mj-image href=${href1} src=${src1} alt=${alt1} width="" padding="15px 0px"></mj-image>
+  </mj-column>
+  <mj-column width="33%">
+    <mj-image href=${href2} src=${src2} alt=${alt2} width="" padding="15px 0px"></mj-image>
+  </mj-column>
+  <mj-column width="33%">
+    <mj-image href=${href3} src=${src3} alt=${alt3} width="" padding="15px 0px"></mj-image>
+  </mj-column>
+</mj-section>
