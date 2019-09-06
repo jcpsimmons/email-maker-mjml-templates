@@ -5,7 +5,7 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 from multiprocessing.pool import Pool
 
-# fstore
+# firestore
 cred = credentials.Certificate('credentials/key.json')
 firebase_admin.initialize_app(cred)
 db = firestore.client()
