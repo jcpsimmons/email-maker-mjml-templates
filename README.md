@@ -1,6 +1,6 @@
 # email-maker-mjml-templates
 
-Repository of MJML email templates for Email Maker application. MJML components are contianed in the ```mjml-snippets``` folder.
+Repository of MJML email templates for Email Maker application. MJML components are contained in the ```mjml-snippets``` folder.
 
 ---
 
