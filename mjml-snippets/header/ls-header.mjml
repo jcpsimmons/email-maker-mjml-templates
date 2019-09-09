@@ -1,16 +1,16 @@
 <!-- Living Spaces Logo Header -->
 <mj-section padding="0 0 10px 0">
-  <mj-column width="100%">
+  <mj-column>
     <mj-divider padding="0px 0 10px 0" />
   </mj-column>
 </mj-section>
 <mj-section padding-bottom="0" padding-top="0">
-  <mj-column width="50%">
-    <mj-image src="https://www.livingspaces.com/globalassets/logo.png" alt="" width="" />
+  <mj-column>
+    <mj-image src="https://www.livingspaces.com/globalassets/logo.png" alt="Living Spaces Home" width="263px" />
   </mj-column>
 </mj-section>
 <mj-section padding="0">
-  <mj-column width="100%">
+  <mj-column>
     <mj-divider border-width="2px" padding="10px 0 0 0" />
   </mj-column>
 </mj-section>
