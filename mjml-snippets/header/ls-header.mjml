@@ -6,7 +6,7 @@
 </mj-section>
 <mj-section padding-bottom="0" padding-top="0">
   <mj-column>
-    <mj-image src="https://www.livingspaces.com/globalassets/logo.png" alt="Living Spaces Home" width="263px" />
+    <mj-image src="https://www.livingspaces.com/globalassets/logo.png" href="https://www.livingspaces.com/" alt="Living Spaces Home" width="263px" />
   </mj-column>
 </mj-section>
 <mj-section padding="0">
