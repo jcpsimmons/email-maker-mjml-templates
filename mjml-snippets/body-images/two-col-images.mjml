@@ -1,9 +1,9 @@
 <!-- Image (Double Column) -->
 <mj-section background-color=${bgColor1}>
   <mj-column>
-    <mj-image src=${src1} alt=${alt1} href=${href1} width=${width1} fluid-on-mobile="true" />
+    <mj-image src=${src1} alt=${alt1} href=${href1} width="${width1}px" fluid-on-mobile="true" />
   </mj-column>
   <mj-column>
-    <mj-image src=${src2} alt=${alt2} href=${href2} width=${width2} fluid-on-mobile="true" />
+    <mj-image src=${src2} alt=${alt2} href=${href2} width="${width2}px" fluid-on-mobile="true" />
   </mj-column>
 </mj-section>
