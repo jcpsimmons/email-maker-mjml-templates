@@ -1,5 +1,5 @@
 <!-- Line Break Header -->
-<mj-section>
+<mj-group>
   <mj-column vertical-align="middle">
     <mj-divider border-width='1px' border-color='#d8d8d8' padding-top="0" width="100%" padding-right="0">
   </mj-column>
@@ -13,4 +13,4 @@
   <mj-column vertical-align="middle">
     <mj-divider border-width='1px' border-color='#d8d8d8' padding-top="0" width="100%" padding-left="0">
   </mj-column>
-</mj-section>
+</mj-group>
