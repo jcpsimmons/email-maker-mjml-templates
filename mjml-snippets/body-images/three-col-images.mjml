@@ -1,5 +1,5 @@
 <!-- Image (Triple Column) -->
-<mj-section background-color=${bgColor1}>
+<mj-section background-color="#${bgColor1}">
   <mj-column width="33%">
     <mj-image href=${href1} src=${src1} alt=${alt1} width="${width1}px" padding="15px 0px" fluid-on-mobile="true" />
   </mj-column>
