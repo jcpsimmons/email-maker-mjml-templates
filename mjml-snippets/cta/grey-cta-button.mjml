@@ -1,7 +1,7 @@
 <!-- Grey CTA Button -->
 <mj-section>
   <mj-column>
-    <mj-button font-family="Arial" font-size='18px' font-weight='bold' background-color="#d8d8d8" color="#5d5d5d" href=${href1}>
+    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#d8d8d8" color="#5d5d5d" href=${href1}>
       ${buttonText1}
     </mj-button>
   </mj-column>
