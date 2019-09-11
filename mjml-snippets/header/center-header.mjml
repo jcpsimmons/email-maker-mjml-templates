@@ -1,10 +1,8 @@
 <!-- Centered Header -->
 <mj-section>
   <mj-column>
-    <mj-text font-family="Arial" font-size="18px" color="#5d5d5d" align="center" padding-bottom="0">
-      <h3>
-        ${text1}
-      </h3>
+    <mj-text height="32px" font-family="Arial" font-size="22px" color="#5d5d5d" align="center" padding="0">
+      ${text1}
     </mj-text>
     <mj-divider border-width='3px' border-color='#d8d8d8' padding-top="0" width="40%">
   </mj-column>
