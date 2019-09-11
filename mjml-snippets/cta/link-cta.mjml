@@ -1,7 +1,7 @@
 <!-- CTA Link -->
 <mj-section>
   <mj-column>
-    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#fff" color="#5d5d5d" text-decoration="underline" href=${href1}>
+    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#fff" color="#5d5d5d" text-decoration="underline" inner-padding="15px 40px" href=${href1}>
       ${buttonText1} &rsaquo;
     </mj-button>
   </mj-column>

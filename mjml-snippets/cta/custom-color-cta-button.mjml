@@ -1,6 +1,6 @@
 <!-- Custom CTA Button -->
 <mj-section>
   <mj-column>
-    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#${bgColor1}" color="#${textColor1}" href=${href1}>${buttonText1}</mj-button>
+    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#${bgColor1}" color="#${textColor1}" href=${href1} inner-padding="15px 40px">${buttonText1}</mj-button>
   </mj-column>
 </mj-section>
