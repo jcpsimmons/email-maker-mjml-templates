@@ -5,12 +5,12 @@
     <mj-image href=${href1} src=${src1} padding="0" fluid-on-mobile="true"></mj-image>
     <mj-text font-size="16px" font-weight="bold" padding="10px 0 0 0" align="center" color="#00699a">${catText1}</mj-text>
     <mj-text font-size="18px" line-height="24px" align="center">${title1}</mj-text>
-    <mj-text font-size="16px" align="center" padding="5px 0 0 10px 0"><a style="color:#333" href=${href1}>Read More &rsaquo;</a></mj-text>
+    <mj-text font-size="16px" align="center" padding="5px 0 0 10px 0"><a style="color:#333" href=${href1} rel="SPCLICKSTREAM" name="blogArticle_numReplace">Read More &rsaquo;</a></mj-text>
   </mj-column>
   <mj-column padding="10px 5px">
     <mj-image href=${href2} src=${src2} padding="0" fluid-on-mobile="true"></mj-image>
     <mj-text font-size="16px" font-weight="bold" padding="10px 0 0 0" align="center" color="#00699a">${catText2}</mj-text>
     <mj-text font-size="18px" line-height="24px" align="center">${title2}</mj-text>
-    <mj-text font-size="16px" align="center" padding="5px 0 0 10px 0"><a style="color:#333" href=${href2}>Read More &rsaquo;</a></mj-text>
+    <mj-text font-size="16px" align="center" padding="5px 0 0 10px 0"><a style="color:#333" href=${href2} rel="SPCLICKSTREAM" name="blogArticle_numReplace">Read More &rsaquo;</a></mj-text>
   </mj-column>
 </mj-section>

@@ -1,5 +1,5 @@
 <!-- Jetlore Product Widget -->
 
 <mj-column width="50%" padding="5px">
-  <mj-image href="https://api.jetlore.com/layouts/section${sectionNumber}/item${itemNumber}?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=${layout}&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" src="https://api.jetlore.com/layouts/section${sectionNumber}/item${itemNumber}.png?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=${layout}&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" fluid-on-mobile="true" padding-left="0px" padding-right="0px" />
+  <mj-image href="https://api.jetlore.com/layouts/section${sectionNumber}/item${itemNumber}?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=${layout}&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" src="https://api.jetlore.com/layouts/section${sectionNumber}/item${itemNumber}.png?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=${layout}&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" fluid-on-mobile="true" padding-left="0px" padding-right="0px" name="jetloreProduct_numReplace" rel="SPCLICKSTREAM" />
 </mj-column>
