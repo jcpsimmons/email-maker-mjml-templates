@@ -1,0 +1,9 @@
+<!-- Current Promotion -->
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-image src="https://cdn.brandfolder.io/XQW73PF4/as/pxqsj6-dszea0-g4uivt/emailmaker_current_promo_L.jpg" alt="Current Event Graphic" href="https://www.livingspaces.com/event" width="300px" rel="SPCLICKSTREAM" name="currentPromo_numReplace" fluid-on-mobile="true" />
+  </mj-column>
+  <mj-column>
+    <mj-image src="https://cdn.brandfolder.io/XQW73PF4/as/pxqsj6-dszea0-497352/emailmaker_current_promo_R.png" alt="Click to shop our current event" href="https://www.livingspaces.com/event" width="300px" rel="SPCLICKSTREAM" name="currentPromo_numReplace" fluid-on-mobile="true" />
+  </mj-column>
+</mj-section>
