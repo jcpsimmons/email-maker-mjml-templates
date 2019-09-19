@@ -36,7 +36,7 @@ def getPreviewImage(fileString):
     try:
         previewImage = re.findall(r"<!--([\s\S]+?)-->", fileString)[1].strip()
         return(previewImage)
-    else:
+    except:
         return("")
 
 
