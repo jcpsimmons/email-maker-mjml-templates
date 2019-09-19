@@ -4,6 +4,6 @@
     <mj-image src=${src1} alt="${alt1}" href=${href1} width="${width1}px" rel="SPCLICKSTREAM" name="${linkname1}_numReplace" fluid-on-mobile="true" />
   </mj-column>
   <mj-column>
-    <mj-image src=${src2} alt=${alt2} href=${href2} width="${width2}px" rel="SPCLICKSTREAM" name="${linkname2}_numReplace" fluid-on-mobile="true" />
+    <mj-image src=${src2} alt="${alt2}" href=${href2} width="${width2}px" rel="SPCLICKSTREAM" name="${linkname2}_numReplace" fluid-on-mobile="true" />
   </mj-column>
 </mj-section>
