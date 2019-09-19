@@ -26,8 +26,18 @@ def getVariableNames(fileString):
 
 
 def getSnippetName(fileString):
+    # Look at the first HTML comment and get the name out of it - this is the title
     snippetName = re.findall(r"<!--([\s\S]+?)-->", fileString)[0].strip()
     return(snippetName)
+
+
+def getPreviewImage(fileString):
+    # Look for a potential 2nd comment - if it's not there, set this to blank
+    try:
+        previewImage = re.findall(r"<!--([\s\S]+?)-->", fileString)[1].strip()
+        return(previewImage)
+    else:
+        return("")
 
 
 def getFileContents(filename):
@@ -48,6 +58,7 @@ def navFormatUpload(folderName):
         tmp = getFileContents(i)
         attrs = getVariableNames(tmp)
         humanReadable = getSnippetName(tmp)
+        previewImage = getPreviewImage(tmp)
         tmp = formatMjmlSnippet(tmp)
         stripExtension = i[:-5]
         # upload entry to fstore
@@ -57,6 +68,7 @@ def navFormatUpload(folderName):
             u'attrs': attrs,
             u'mjml': tmp,
             u'humanReadable': humanReadable,
+            u'previewImage': previewImage,
             u'uploadTimestamp': firestore.SERVER_TIMESTAMP
         })
     # get back to the root directory before running again
