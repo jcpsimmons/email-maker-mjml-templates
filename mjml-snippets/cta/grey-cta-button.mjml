@@ -2,7 +2,7 @@
 <mj-section>
   <mj-column>
     <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#d8d8d8" color="#5d5d5d" href=${href1} inner-padding="15px 40px">
-      ${buttonText1}
+      ${buttonText1} &rsaquo;
     </mj-button>
   </mj-column>
 </mj-section>
