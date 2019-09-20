@@ -1,5 +1,5 @@
 <!-- Jetlore Category Tile Widget 6 Items -->
-
+<!-- -->
 <mj-section>
   <mj-column width="50%" padding="10px">
     <mj-image href="https://api.jetlore.com/layouts/section0/item1?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=EmailMaker_Globlal_Categories&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" src="https://api.jetlore.com/layouts/section0/item1.png?jl_cid=f6366320d179ee442a7c66cf304aa5f7&jl_id=%%EMAIL%%&jl_layout=EmailMaker_Globlal_Categories&feed=living_spaces&jl_cmpn=%%MAILING_ID%%" fluid-on-mobile="true" padding-left="0px" padding-right="0px" border="1px solid #eaeaea" rel="SPCLICKSTREAM" name="jetloreCategory_numReplace" />

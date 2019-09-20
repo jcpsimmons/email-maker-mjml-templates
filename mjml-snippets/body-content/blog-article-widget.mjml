@@ -1,5 +1,5 @@
 <!-- Blog Articles - Two Column -->
-
+<!-- -->
 <mj-section>
   <mj-column padding="10px 5px">
     <mj-image href=${href1} src=${src1} padding="0" fluid-on-mobile="true"></mj-image>
