@@ -10,6 +10,21 @@
     <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro"></mj-font>
   </mj-head>
   <mj-body mj-class="body-text" background-color="#ffffff">
+    <mj-section padding="0 0 10px 0">
+      <mj-column>
+        <mj-divider padding="0px 0 10px 0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-image src="https://www.livingspaces.com/globalassets/logo.png" href="https://www.livingspaces.com/" alt="Living Spaces Home" width="263px" name="logo_numReplace" rel="SPCLICKSTREAM" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-divider border-width="2px" padding="10px 0 0 0" />
+      </mj-column>
+    </mj-section>
     ${bodyContents}
     <mj-raw>
       <!-- FOOTER START -->%%_SP_CONTENT_SCRAPE xt_csname="email footer" xt_cstracklinks="true" xt_cslocationtype="HTTPS" xt_cslocationref="www.livingspaces.com/_content/scripts/silverpop/email-maker-footer.html"%%
