@@ -1,0 +1,12 @@
+<!-- Non-Responsive Images (Double Column) -->
+<!-- https://cdn.brandfolder.io/XQW73PF4/at/px2cvv-7uhyts-fe7cjk/107883-Suzy_Dark_Grey_Wallaway_Recliner-04-1.jpg?width=500&height=333 -->
+<mj-section background-color="#${bgColor1}">
+  <mj-group>
+    <mj-column width="50%">
+      <mj-image href=${href1} rel="SPCLICKSTREAM" name="${linkname1}_numReplace" src=${src1} alt="${alt1}" width="${width1}px" padding="15px 0px" fluid-on-mobile="true" />
+    </mj-column>
+    <mj-column width="50%">
+      <mj-image href=${href2} rel="SPCLICKSTREAM" name="${linkname2}_numReplace" src=${src2} alt="${alt2}" width="${width2}px" padding="15px 0px" fluid-on-mobile="true" />
+    </mj-column>
+  </mj-group>
+</mj-section>
