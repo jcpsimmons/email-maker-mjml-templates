@@ -1,0 +1,13 @@
+<!-- Triple CTA Button -->
+<!-- https://images.unsplash.com/photo-1568935196469-e34e6348cc5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80 -->
+<mj-section>
+  <mj-column>
+    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#${bgColor1}" color="#${textColor1}" href=${href1} width="94%" padding="10px 0px" inner-padding="15px 0px">${buttonText1} &rsaquo;</mj-button>
+  </mj-column>
+  <mj-column>
+    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#${bgColor2}" color="#${textColor2}" href=${href2} width="94%" padding="10px 0px" inner-padding="15px 0px">${buttonText2} &rsaquo;</mj-button>
+  </mj-column>
+  <mj-column>
+    <mj-button font-family="Arial" rel="SPCLICKSTREAM" name="button_numReplace" font-size='18px' font-weight='bold' background-color="#${bgColor3}" color="#${textColor3}" href=${href3} width="94%" padding="10px 0px" inner-padding="15px 0px">${buttonText3} &rsaquo;</mj-button>
+  </mj-column>
+</mj-section>
