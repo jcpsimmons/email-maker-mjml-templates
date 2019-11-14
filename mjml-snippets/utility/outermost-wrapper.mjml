@@ -26,9 +26,74 @@
       </mj-column>
     </mj-section>
     ${bodyContents}
-    <mj-raw>
-      <!-- FOOTER START -->%%_SP_CONTENT_SCRAPE xt_csname="email footer" xt_cstracklinks="true" xt_cslocationtype="HTTPS" xt_cslocationref="www.livingspaces.com/_content/scripts/silverpop/email-maker-footer.html"%%
-    </mj-raw>
+    <!--BEGIN FOOTER-->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="40px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0px">
+        <mj-image href="https://www.livingspaces.com/company/financing" src="https://cdn.brandfolder.io/XQW73PF4/as/pxqrr2-4ey8-gn90j/emailmaker-financing-left-icon.jpg" padding="0" fluid-on-mobile="true" alt="Special Financing" name="footer_financeLeft" rel="SPCLICKSTREAM">
+        </mj-image>
+      </mj-column>
+      <mj-column padding="0px">
+        <mj-image href="https://www.livingspaces.com/company/financing" src="https://cdn.brandfolder.io/XQW73PF4/as/pxqrr2-4ey8-4pvwl8/emailmaker-financing-right-text.png" padding="0" fluid-on-mobile="true" alt="Enjoy no-interest payment options. Apply Now!" name="footer_financeRight" rel="SPCLICKSTREAM"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="25px 0 5px">
+      <mj-column>
+        <mj-image alt="Find a store" href="https://www.livingspaces.com/stores" padding="0px" width="107px" src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-e2wpki/find_store.jpg" name="footer_findStore" rel="SPCLICKSTREAM"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0">
+      <mj-column>
+        <mj-button padding="5px 2px" mj-class="footer-button" border-radius="0px" href="https://www.livingspaces.com/departments/featured/new-arrivals" width="100%" font-family="Arial, sans-serif" background-color="#333333" color="#ffffff" height="20px" font-size="16px" text-decoration="none" name="footer_newArrivals" rel="SPCLICKSTREAM"><span style="letter-spacing: 2px;">New
+            Arrivals</span></mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button padding="5px 2px" mj-class="footer-button" border-radius="0px" href="https://www.livingspaces.com/departments/furniture" width="100%" font-family="Arial, sans-serif" background-color="#333333" color="#ffffff" height="20px" font-size="16px" text-decoration="none" name="footer_furniture" rel="SPCLICKSTREAM"><span style="letter-spacing: 2px;">Furniture</span></mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button padding="5px 2px" mj-class="footer-button" border-radius="0px" href="https://www.livingspaces.com/clearance" width="100%" font-family="Arial, sans-serif" background-color="#333333" color="#ffffff" height="20px" font-size="16px" text-decoration="none" name="footer_clearance" rel="SPCLICKSTREAM"><span style="letter-spacing: 2px;">Clearance</span></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="15px 0">
+      <mj-group>
+        <mj-column>
+          <mj-image alt="living spaces pinterest" href="https://pinterest.com/livingspaces/" width="30px" src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-95ldcr/pinterest.jpg" padding="0px" name="footer_pinterest" rel="SPCLICKSTREAM"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="living spaces facebook" href="https://www.facebook.com/livingspaces" width="30px" src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-5uji51/facebook.jpg" padding="0px" name="footer_facebook" rel="SPCLICKSTREAM"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="living spaces instagram" href="https://www.instagram.com/livingspaces/" width="30px" src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-kdzzf/instagram.jpg" padding="0px" name="footer_instagram" rel="SPCLICKSTREAM"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="living spaces twitter" href="https://twitter.com/livingspaces" width="30px" src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-drj0x1/twitter.jpg" padding="0px" name="footer_twitter" rel="SPCLICKSTREAM"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="living spaces youtube" href="https://www.youtube.com/user/livingspaces" width="30px" src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-xvik0/youtube.jpg" padding="0px" name="footer_youtube" rel="SPCLICKSTREAM"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image alt="living spaces ideas + advice" href="https://www.livingspaces.com/inspiration/ideas-advice" width="30px" src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-94l2eh/blog.jpg" padding="0px" name="footer_blog" rel="SPCLICKSTREAM"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="20px 0">
+      <mj-column>
+        <mj-text align="center" padding="0 10px">
+          <p style="Margin:0; padding-bottom:5px; font-size:12px; line-height:20px; color:#111111; font-family: Arial, Helvetica, sans-serif;">
+            Add <a href="mailto:hello@mktemail.livingspaces.com" name="footer_ls_addy" style="color:#333333; text-decoration:underline;">hello@mktemail.livingspaces.com</a> to your contacts so
+            our emails always reach your inbox.</p>
+          <p style="Margin:0; padding-bottom:10px; font-size:12px; line-height:20px; Margin-bottom:10px; color:#111111; font-family: Arial, Helvetica, sans-serif;">
+            Don't miss an email from us! Click the priority <img src="https://cdn.brandfolder.io/XQW73PF4/as/q0ny28-ekk8k8-6a2z8z/gmail_flag.jpg" style="display:inline-block; padding:0" /> in your Gmail inbox.</p>
+          <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family:Arial, Helvetica, sans-serif;">
+            &copy; Living Spaces Furniture, LLC.<br />14501 Artesia Blvd, La Mirada, CA 90638, All Rights Reserved</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--END FOOTER-->
     <mj-section>
       <mj-column>
         <mj-text align="center" font-size="13px"><a href="#SPCLICKTOVIEW" id="ClickToViewHtml_SPCLICKTOVIEW" name="ClickToViewHtml_SPCLICKTOVIEW" style="color:#333333;text-decoration:underline;" xt="SPCLICKTOVIEW"><span style="color:#333333">View in Browser</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#SPCUSTOMOPTOUT" id="_SPCUSTOMOPTOUT" name="_SPCUSTOMOPTOUT" style="text-decoration:undelrine; color:#333333;" target="_blank" xt="SPCUSTOMOPTOUT"><span style="color:#333333;">Unsubscribe</span></a></mj-text>
