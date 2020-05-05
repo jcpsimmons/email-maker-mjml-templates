@@ -1,0 +1,29 @@
+{
+  "name": "email-maker-mjml-templates",
+  "version": "1.0.0",
+  "description": "Repository of MJML email templates for Email Maker application. MJML components are contained in the ```mjml-snippets``` folder.",
+  "main": "index.js",
+  "scripts": {
+    "backup": "node batchBackup.js",
+    "upload": "python3 batchUpload.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpsimmons/email-maker-mjml-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcpsimmons/email-maker-mjml-templates/issues"
+  },
+  "homepage": "https://github.com/jcpsimmons/email-maker-mjml-templates#readme",
+  "dependencies": {
+    "firestore-export-import": "^0.5.0",
+    "pre-commit": "^1.2.2"
+  },
+  "pre-commit": [
+    "backup",
+    "upload"
+  ]
+}
